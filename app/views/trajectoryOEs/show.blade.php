@@ -1,0 +1,1 @@
+/var/www/laravel/Service_Tlali/app/views/trajectoryOEs/show.blade.php

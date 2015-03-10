@@ -1,0 +1,1 @@
+/var/www/laravel/Service_Tlali/app/views/informationAs/index.blade.php
